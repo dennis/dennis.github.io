@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Sim Rig"
+date:   "2020-06-22"
+categories: tech
+---
+
+Jeg har et [GT1-Evo](https://sim-lab.eu/product/gt1-evo/) Sim rig. Med Fanatec
+CSL Elite rat og pedaler med LC. Har også Fanatec ClubSport Shifter SQ v1.5 og
+ClubSport Handbrake v1.5.
+
+Jeg bruger Oculus Rift fremfor skærme.
+
+# Blæsere
+
+Da det er jævnt varmt med VR briller, kunne jeg godt tænke mig at tilføje et par
+blæsere. 
+
+[Den billige løsning](https://www.youtube.com/watch?v=ouL9FefN_bk) er at
+tilføje et par rør og et par blæsere. Og lade det være det. Det kan gøres for
+under 500,-
+
+[Den nørdede løsning](https://www.youtube.com/watch?v=a5A5LSLH5ks) koster ca
+dobbelt så meget. Her styres blæsernes styrke af hastigheden på bilen. Desværre
+er blæserne ikke det samme som ovenstående løsning (12v vs 5v), så man kan ikke
+opgraderer nemt fra den billige løsning.
+
+[Sim Racing Studio](https://www.simracingstudio.com/product-page/srs-double-the-fan-power-wind-package)
+har lavet en færdiglavet løsning. ca 1200 + fragt og told. Kan nok ikke svare
+sig pga told.
